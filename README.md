@@ -35,3 +35,62 @@ The dataset contained customer orders, product information, payment methods, ord
 - Data Preparation
 - Attention to Detail
 - Excel Fundamentals
+
+  ---
+
+### ✅ Week 2 - Exploratory Data Analysis (EDA) & Basic Statistics in Excel
+
+## Project Goal
+
+Analyze a dataset to understand customer behavior, product performance, sales trends, and business opportunities using descriptive statistics and data summarization techniques.
+
+## Dataset
+
+The dataset contains:
+- Customer Orders
+- Products
+- Payment Methods
+- Order Statuses
+- Referral Sources
+- Sales Transactions
+
+## Analysis Performed
+
+**Descriptive Statistics:**
+- Mean
+- Median
+- Mode
+- Minimum
+- Maximum
+
+**Business Analysis:**
+- Monthly Revenue Trends
+- Product Sales Performance
+- Referral Source Analysis
+- Payment Method Analysis
+- Coupon Usage Analysis
+- Order Status Distribution
+
+## Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Excel Functions
+
+## Key Findings
+  
+- Revenue showed monthly fluctuations with identifiable peak periods.
+- Product categories contributed differently to total sales revenue.
+- Referral sources generated varying levels of customer engagement and revenue.
+- Customer payment preferences were identified through transaction analysis.
+- Coupon usage impacted purchasing behavior.
+
+## Skills Demonstrated
+
+- Exploratory Data Analysis (EDA)
+- Descriptive Statistics
+- Data Interpretation
+- Excel Pivot Tables
+- Business Intelligence
+- Analytical Thinking
