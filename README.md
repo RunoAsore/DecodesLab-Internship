@@ -178,6 +178,7 @@ FROM SalesData;
 ## Key Business Questions Answered
 
 **Which product generated the highest revenue?:**
+
 SELECT Product,
 SUM(TotalPrice) AS Revenue
 FROM Sql Server Dataset
@@ -185,6 +186,7 @@ GROUP BY Product
 ORDER BY Revenue DESC;
 
 **Which payment method generated the most sales?:**
+
 SELECT PaymentMethod,
 SUM(TotalPrice) AS Revenue
 FROM Sql Server Dataset
@@ -192,12 +194,14 @@ GROUP BY PaymentMethod
 ORDER BY Revenue DESC;
 
 **What is the distribution of order statuses?:**
+
 SELECT OrderStatus,
 COUNT(*) AS TotalOrders
 FROM Sql Server Dataset
 GROUP BY OrderStatus;
 
 **Which referral source brought the most customers?:**
+
 SELECT ReferralSource,
 COUNT(OrderID) AS Orders
 FROM Sql Server Dataset
@@ -227,7 +231,7 @@ ORDER BY Orders DESC;
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
 - Microsoft Excel
-- 
+
 ## Outcome
 
 This project strengthened my ability to use SQL for data analysis, extract meaningful business insights, and communicate findings using data-driven approaches.
