@@ -236,8 +236,90 @@ ORDER BY Orders DESC;
 
 This project strengthened my ability to use SQL for data analysis, extract meaningful business insights, and communicate findings using data-driven approaches.
 
+---
+
+### ✅ Week 4 E-Commerce Business Performance Dashboard (Power BI)
+
+## Project Overview
+
+This project was completed as the final capstone project during my Data Analytics Internship. The objective was to analyze e-commerce sales data and create an interactive Power BI dashboard that transforms raw data into actionable business insights.
+
+The dashboard provides a comprehensive overview of sales performance, customer behavior, product performance, payment methods, and referral channels to support data-driven decision-making.
+
+
+## Objectives
+
+- Analyze e-commerce business performance.
+- Track key sales and customer metrics.
+- Identify top-performing products and revenue channels.
+- Monitor monthly revenue trends.
+- Communicate insights through effective data visualization.
+
+## Tools Used
+
+- Microsoft Excel (Data Cleaning)
+- Power BI (Data Modeling & Visualization)
+- DAX (Measures & Calculations)
+
+## Key Performance Indicators (KPIs)
+
+- Total Revenue: $1.26M
+- Average Order Value (AOV): $1.05K
+- Total Orders: 1,000+
+- Total Customers: 1,000+
+- Quantities Sold: 4,000+
+
+## Dashboard Features
+
+**Executive Metrics**
+
+- Total Revenue
+- Average Order Value (AOV)
+- Total Orders
+- Total Customers
+- Quantities Sold
+
+**Revenue Analysis**
+
+- Revenue by Referral Source
+- Revenue by Product
+- Revenue by Payment Method
+- Monthly Revenue Trend
+
+**Operational Analysis**
+- Order Status Distribution
+- Interactive Filters:
+  - Order Status
+  - Payment Method
+  - Product
+
+## Key Insights
+
+- June recorded the highest monthly revenue.
+- September generated the lowest revenue.
+- Chairs emerged as the top revenue-generating product.
+- Instagram generated the highest number of orders among referral channels.
+- Revenue contribution across payment methods was relatively balanced.
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Visualization
+- Dashboard Design
+- Business Intelligence
+- DAX Calculations
+- Data Storytelling
+- Analytical Thinking
+
+
+
+
 
 ## Author
 
-Runo Asore
-Data Analyst | Business Intelligence Enthusiast
+**Runo Asore**
+Entry- Level Data Analyst | Power Bi & Excel Enthusiast
+
+[![LikedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/runo-asore-bb0411409)
+[![Twitter/X](https://img.shields.io/badge/X-Follow-black)](https://x.com/AsoreRuno)
