@@ -314,8 +314,6 @@ The dashboard provides a comprehensive overview of sales performance, customer b
 
 
 
-
-
 ## Author
 
 **Runo Asore**
