@@ -12,6 +12,7 @@
 
 This project analyses E-Commerce business performance data across **4 weeks**, progresssing from raw data to a fully interactive Power Bi dashboard.
 
+---
 
 ## 📆 Week by Week Breakdown
 
