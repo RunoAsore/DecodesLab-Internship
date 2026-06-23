@@ -1,3 +1,18 @@
+# E-Commerce Business Performance Dashboard
+### Decodelabs Internship Project | Runo Asore
+
+> An end-to-end data analytics project covering Data cleaning, Exploratory Analysis, SQL quering and Powe Bi visualization on an E-Commerce sales dataset.
+
+
+
+
+---
+
+## Project Overview
+
+This project analyses E-Commerce business performance data across **4 weeks**, progresssing from raw data to a fully interactive Power Bi dashboard.
+
+
 ## 📆 Week by Week Breakdown
 
 ---
