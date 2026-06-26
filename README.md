@@ -4,6 +4,7 @@
 > An end-to-end data analytics project covering Data cleaning, Exploratory Analysis, SQL quering and Powe Bi visualization on an E-Commerce sales dataset.
 
 
+<img width="470" height="263" alt="Decodelab Dashboard" src="https://github.com/user-attachments/assets/4f1ab0fd-813b-46d0-a3fb-7aff988c2e81" />
 
 
 ---
